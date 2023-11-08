@@ -90,10 +90,12 @@ SELECT * FROM salary_log;
 ### Output:
 
 #### Employee Table:
-![OUTPUT](/employeeop.png)
+![employeeop](https://github.com/KSPandian7/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/113496887/9e1afbb1-1525-4228-94a5-f1faa3a7ae35)
+
 
 #### Salary_log Table:
-![OUTPUT](/salary_logop.png)
+![salary_logop](https://github.com/KSPandian7/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/113496887/10f5229b-9a1a-4636-a2ec-29c9213a1032)
+
 
 
 ### Result:
